@@ -65,7 +65,8 @@ plt.plot(x_train,lr.predict(x_train),color='red')
 # Graph:
 ![Alt text](5.png)
 
-
+# COEFFICIENT AND INTERCEPT VALUES:
+![Screenshot 2024-04-01 174911](https://github.com/saniyaganesamoorthy/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/145742583/5146b1c3-50f5-4343-97d6-d7b0d9996f9a)
 
 
 ## Result:
