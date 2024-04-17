@@ -58,9 +58,9 @@ plt.plot(x_train,lr.predict(x_train),color='red')
 
 ## Output:
 # df.head():
-![Alt text](image.png)
+![1](https://github.com/saniyaganesamoorthy/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/145742583/bb45234f-500d-4618-bae8-caef8f3263df)
 # Plot:
-![Alt text](image-1.png)
+![2](https://github.com/saniyaganesamoorthy/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/145742583/207f5475-dc37-469d-8481-1ba57f321ab5)
 # iloc:
 ![Alt text](3.png)
 # Training:
@@ -68,7 +68,8 @@ plt.plot(x_train,lr.predict(x_train),color='red')
 # Graph:
 ![Alt text](5.png)
 
-
+# COEFFICIENT AND INTERCEPT VALUES:
+![Screenshot 2024-04-01 174911](https://github.com/saniyaganesamoorthy/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/145742583/5146b1c3-50f5-4343-97d6-d7b0d9996f9a)
 
 
 ## Result:
